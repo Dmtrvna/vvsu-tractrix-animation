@@ -29,8 +29,8 @@ cd vvsu-educ-practice
 
 1. Клонируйте репозиторий
 ```
-git clone https://github.com/your-username/concentration-app.git
-cd concentration-app
+git clone https://github.com/your-username/vvsu-tractrix-animation.git
+cd vvsu-tractrix-animation
 ```
 
 2. Установите зависимости
